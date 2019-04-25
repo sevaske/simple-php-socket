@@ -14,6 +14,7 @@ $ php index.php -i {host} -p {port}
 ```
 
 Default host is 127.0.0.1
+
 Default port is 1993
 
 #### Connection to the server
